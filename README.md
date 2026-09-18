@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Max Acosta 👋</h1>
+  <h1>Max Acosta </h1>
 
   <p><b>Full Stack Developer | .NET, Go & Node.js | Clean Architecture & Observability | AI Trainer</b></p>
   
