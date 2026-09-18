@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Max Acosta 👋</h1>
+  <h1>Max Acosta </h1>
 
   <p><b>Full Stack Developer | .NET, Go & Node.js | Clean Architecture & Observability | AI Trainer</b></p>
   
@@ -11,13 +11,13 @@
   
   <p>Desarrollador Full Stack con experiencia práctica en <b>.NET, Go y Node.js/TypeScript</b>, construyendo APIs seguras, plataformas real-time y sistemas de infraestructura.</p>
   
-  <p>💼 Trabajando actualmente en: <b>Hangar (Plataforma Multi-Tenant) y TaskFlow Pro</b></p>
+  <p> Trabajando actualmente en: <b>Hangar (Plataforma Multi-Tenant) y TaskFlow Pro</b></p>
 
 </div>
 
 <hr>
 
-### 🛠️ Stack y Capacidades
+###  Stack y Capacidades
 
 **Frontend:**
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
