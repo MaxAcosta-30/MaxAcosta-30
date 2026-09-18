@@ -41,3 +41,13 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
 
+<hr>
+
+### 🎧 Escuchando en Spotify
+
+<p align="left">
+  <!-- Para que funcione tu propio Spotify, necesitas loguearte en la app y cambiar el uid -->
+  <a href="https://spotify-github-profile.vercel.app/">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
