@@ -41,11 +41,4 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
 
-<hr>
 
-### 📊 Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxAcosta-30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=121212" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxAcosta-30&layout=compact&theme=tokyonight&hide_border=true&bg_color=121212" alt="Top Languages" />
-</p>
