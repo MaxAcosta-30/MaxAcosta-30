@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Max Acosta </h1>
+  <h1>Max Acosta 👋</h1>
 
   <p><b>Full Stack Developer | .NET, Go & Node.js | Clean Architecture & Observability | AI Trainer</b></p>
   
@@ -11,7 +11,7 @@
   
   <p>Desarrollador Full Stack con experiencia práctica en <b>.NET, Go y Node.js/TypeScript</b>, construyendo APIs seguras, plataformas real-time y sistemas de infraestructura.</p>
   
-  
+  <p>💼 Trabajando actualmente en: <b>Hangar (Plataforma Multi-Tenant) y TaskFlow Pro</b></p>
 
 </div>
 
@@ -41,13 +41,3 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
 
-<hr>
-
-### 🎧 Escuchando en Spotify
-
-<p align="left">
-  <!-- Para que funcione tu propio Spotify, enlaza tu cuenta usando novnc/spotify-readme y cambia el uid -->
-  <a href="https://github.com/novnc/spotify-readme">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
