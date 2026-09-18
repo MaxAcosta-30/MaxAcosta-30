@@ -43,11 +43,9 @@
 
 <hr>
 
-### 🎧 Escuchando en Spotify
+### 📊 Estadísticas de GitHub
 
 <p align="left">
-  <!-- Para que funcione tu propio Spotify, necesitas loguearte en la app y cambiar el uid -->
-  <a href="https://spotify-github-profile.vercel.app/">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxAcosta-30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=121212" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxAcosta-30&layout=compact&theme=tokyonight&hide_border=true&bg_color=121212" alt="Top Languages" />
 </p>
