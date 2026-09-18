@@ -11,7 +11,7 @@
   
   <p>Desarrollador Full Stack con experiencia práctica en <b>.NET, Go y Node.js/TypeScript</b>, construyendo APIs seguras, plataformas real-time y sistemas de infraestructura.</p>
   
-  <p>💼 Trabajando actualmente en: <b>Hangar (Plataforma Multi-Tenant) y TaskFlow Pro</b></p>
+  
 
 </div>
 
